@@ -11,7 +11,7 @@ layout: home
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
-
+fdfdfdfd
         <ul class="artical-list">
         {% for post in site.categories.project %}
             <li>
