@@ -9,4 +9,4 @@ description: 这是一个面料管理系统
 2014
 
 
-[Fabric]: https://github.com/JuuW/fabriclib-web 'FabricLib'
+[FabricLib]: https://github.com/JuuW/fabriclib-web 'FabricLib'
