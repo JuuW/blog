@@ -5,5 +5,8 @@ category: project
 description: 这是一个面料管理系统
 ---
 
-Fabric  Lib
+[FabricLib][]
 2014
+
+
+[Fabric]: https://github.com/JuuW/fabriclib-web 'FabricLib'
