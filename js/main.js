@@ -1,6 +1,6 @@
 
 
-
+    $(document).ready(function() {
  $('#disqus_container .comment').on('click',function(){
          var disqus_shortname = 'wjiancn'; // required: replace example with your forum shortname
   (function() {
@@ -9,3 +9,4 @@
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
   })();
     });
+}
