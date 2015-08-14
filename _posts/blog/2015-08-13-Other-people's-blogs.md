@@ -6,12 +6,12 @@ description:  There are a lot people around us who are enthusiasm on sharing. Th
 ---
 
 ## Domestic
-* [Ruan Yifeng][]
-* [BeiYuu][]
+* [Ruan Yifeng]
+* [BeiYuu]
 
 ## International
-* [Steve Losh][]
-* [Derek Sivers][]
+* [Steve Losh]
+* [Derek Sivers]
 
 
 
