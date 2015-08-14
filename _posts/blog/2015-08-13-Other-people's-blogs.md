@@ -12,6 +12,7 @@ description:  There are a lot people around us who are enthusiasm on sharing. Th
 ## International
 * [Steve Losh]
 * [Derek Sivers]
+* [Joshua Lande]
 
 
 
@@ -19,3 +20,4 @@ description:  There are a lot people around us who are enthusiasm on sharing. Th
 [BeiYuu]:    http://beiyuu.com  "BeiYuu"
 [Steve Losh]:   http://stevelosh.com/   "Steve Losh"
 [Derek Sivers]: http://sivers.org/  "Derek Sivers"
+[Joshua Lande]: http://joshualande.com/jekyll-github-pages-poole/ "Joshua Lande"
