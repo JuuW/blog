@@ -5,8 +5,15 @@ category: blog
 description:  Red Bibble (A).
 ---
 
-# <b>`abacus`</b>d
+# `abacus`
 n 算盘<br />【源】源自希伯来语abaq“灰尘”，因为算盘很容易脏。<br /><br />【记】为了拓宽大家的思路，一些简单的词我也会提供一些方法仅供参考。ab刻死，Ab离开，acus发音：刻死，这叫离开立刻死，不就是算盘吗？学会计、金融的一定深有体会。<br /><br />【类】abacus:calculate＝sextant:navigate   算盘用来计算＝六分仪用来航海<br />【九阴真经第一章】“一”见钟情。GRE中最easy的单词蕴含着最深刻的道理。不要放弃任何一个有助于背单词的机会，本书将26个字母的第一个单词和最后一个单词用下划线表示，共52个单词。每篇的首尾单词（共1000多个）也要引起大家注意，要对“一”产生敏感。单词前面的□是用来打钩的，记住会背的单词用铅笔打钩，整本书都钩完了，你也就大功告成了。千万别打好几个钩，或者划正字之类的，如果那样书就完了。"
 
 # `abandon`	
 vt /n 放弃，遗弃＝forsake；放纵<br />【例】Do not abandon yourself to drinking 不要沉溺于饮酒。<br />【记】a+band乐队+on，一个乐队在舞台上。想想黑豹、唐朝、零点等疯狂的摇滚乐队，不仅他们在放纵，你们听他们的歌本身也是一种放纵。<br />【类】inhibition:abandon＝agitation:tranquility禁欲不放纵＝激动不宁静calmness:frenzy＝despair:hope  平静不狂暴＝绝望不希望frenzy:calm＝abandon:prohibit  使平静消除狂暴＝禁止消除放任<br />【反】salvage（vt 海上救助）"<br/>
+
+# `zenith`</br>n 天顶；最高点<br />【记】读：ze你死，从zenith上掉下来你就会死。<br />【反】nadir（n 天底；最低点）；lowest point（最低点）"</br>
+# `zephyr`</br>n 西风；虚幻短暂的东西<br />【记】源于：Zephyrus（西风之神：森林诸神中最温柔者）"</br>
+# `zest`</br>n 刺激性；兴趣<br />【记】z＝zeal，est最：对某事最热心－兴趣<br />【反】zesty（adj 兴致很高的）－bland（adj 温和冷漠的）"</br>
+# `zigzag`</br>n Z字型急转弯；adj 曲折移动的<br />【记】Z，ig，Z，ag：很多Z－Z字型<br />【类】zigzag:turns＝montage:imagesZ字形是转弯的组合＝蒙太奇是影像的组合"</br>
+# `zoning`</br>n 分区制；区域制<br />【记】zon＝zone（n 地域），ing：分区制<br />【类】land:zoning＝?   国土:分区制＝?<br />【九阴真经第九章】再看一遍。记得要下载补丁！！"</br>
+# `éclat`</br>n 辉煌的成就<br />【记】ec出，la拉，t他（lat作为词根“选择”）：拉（选）他出来讲话，这种人在公司里就是老总，在博森里就是老管，在大会堂里就是老江，因为他们有辉煌的成就。<br />【反】fiasco（n 完全的失败）"</br>
