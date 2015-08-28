@@ -12,11 +12,11 @@ n 算盘<br />【源】源自希伯来语abaq“灰尘”，因为算盘很容�
 vt /n 放弃，遗弃＝forsake；放纵<br />【例】Do not abandon yourself to drinking 不要沉溺于饮酒。<br />【记】a+band乐队+on，一个乐队在舞台上。想想黑豹、唐朝、零点等疯狂的摇滚乐队，不仅他们在放纵，你们听他们的歌本身也是一种放纵。<br />【类】inhibition:abandon＝agitation:tranquility禁欲不放纵＝激动不宁静calmness:frenzy＝despair:hope  平静不狂暴＝绝望不希望frenzy:calm＝abandon:prohibit  使平静消除狂暴＝禁止消除放任<br />【反】salvage（vt 海上救助）"<br/>
 
 +	`zenith`
----------------------
+--------------------------
 n 天顶；最高点<br />【记】读：ze你死，从zenith上掉下来你就会死。<br />【反】nadir（n 天底；最低点）；lowest point（最低点）"<br/>
 
 +	`zephyr`
----------------------
+--------------------------
 n 西风；虚幻短暂的东西<br />【记】源于：Zephyrus（西风之神：森林诸神中最温柔者）"<br/>
 
 +	`zest`
