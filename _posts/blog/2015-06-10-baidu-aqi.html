@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<style type="text/css">
+	.red {
+	
+	background-color:red;
+
+	}
+	body, html,#allmap {width: 100%;height: 100%;overflow: hidden;margin:0;font-family:"微软雅黑";}
+	</style>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=15c1aa2f817abe506bc10701cf5573c6"></script>
+	<title>AQI</title>
+</head>
+<body>
+	<div id="allmap"></div>
+</body>
+</html>
+<script type="text/javascript">
+	// 百度地图API功能
+	var map = new BMap.Map("allmap");    // 创建Map实例
+	map.centerAndZoom(new BMap.Point(116.404, 39.915), 11);  // 初始化地图,设置中心点坐标和地图级别
+	map.addControl(new BMap.MapTypeControl());   //添加地图类型控件
+	map.setCurrentCity("北京");          // 设置地图显示的城市 此项是必须设置的
+	map.enableScrollWheelZoom(true);     //开启鼠标滚轮缩放
+
+
+var point = new BMap.Point(116.473008,39.916605);
+var vectorPeoplePath = new BMap.Marker(point, {
+  // 设置自定义path路径25325l99
+  icon: new BMap.Symbol('m0.5,48.67105l106.55963,0m-53.03642,45.73853l52.06349,51.09042m-52.06349,-51.57716l-48.65731,51.57716m48.41391,-112.39955l0,60.82238m16.17517,-77.24814c0,8.93415 -7.24208,16.17461 -16.17517,16.17461c-8.93307,0 -16.17464,-7.24046 -16.17464,-16.17461c0,-8.93309 7.24156,-16.1747 16.17464,-16.1747c8.93309,0 16.17517,7.24161 16.17517,16.1747z', {
+    rotation: 0,//顺时针旋转40度
+    fillColor: 'green',
+    fillOpacity: 0.8,
+    strokeColor: '#555',
+    strokeWeight: 3//线宽
+  })
+});
+
+var point2 = new BMap.Point(116.483008,39.916605);
+
+
+var vectorPeoplePath2 = new BMap.Marker(point2, {
+  // 设置自定义path路径25325l99
+  icon: new BMap.Symbol(BMap_Symbol_SHAPE_RECTANGLE, {
+    rotation: 0,//顺时针旋转40度
+    fillColor: 'green',
+    fillOpacity: 0.8,
+    strokeColor: '#000',
+    strokeWeight: 5//线宽
+  })
+});
+
+	var label = new BMap.Label("<span class = 'red' >232</span>",{offset:new BMap.Size(0,-20)});
+	vectorPeoplePath2.setLabel(label);
+	vectorPeoplePath.setLabel(label);
+
+map.addOverlay(vectorPeoplePath2);
+map.addOverlay(vectorPeoplePath);
+
+</script>
+
+你好，首先我想表达我的感谢之情。感谢你们开放这个数据接口。我们的团队现在在做一个免费的GIS（地理信息系统）网站，（APP版还在开发中）。用户可以在这个网站里面分享自己的图片，游记，旅行路线，地理数据（如各省高校分布，高考分数分布，垃圾填埋场，污染工厂）等。而现在最重要的PM2.5数据，却一直没能在这里面呈现。国外国内也有相应的网站提供数据查询，但要么就是不支持地图显示，要么就是太重量级。我们一直找了很久，都没有找到合适的数据源。所以当我们看到PM25.in的时候，真的是非常激动。我们非常理解和尊重你们团队的AppKey申请政策，所以写这个邮件向你们申请，希望能够通过你们的审核。
+
+我们的网站是http://www.photoshows.cn
+您也可以申请账户并使用我们的服务。该服务完全免费，也希望你能够慷慨地上传您的数据。
+
+非常感谢，并期盼您的回复。
+谢谢
+王杰森
+2015-12-24 15:03:50
+
+http://www.pm25.in/api/querys/pm2_5.json?city=zhuhai&token=xxxxxx
