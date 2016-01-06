@@ -1,0 +1,14 @@
+1：bbc 6 minutes english
+download website  http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151119
+copy src code from div heading-6-minute-english to div widget-list-automatic
+then delete delete div audio-miniplayer-controls and widget-audio-mini
+
+put the mp3 file below the image
+
+<div>
+<audio controls="controls" src="http://downloads.bbc.co.uk/learningenglish/features/6min/151112_6min_english_comedy_download.mp3">
+您的浏览器不支持 audio 标签,请使用支持HTML5的浏览器。
+</audio>
+<br>
+<a href = "http://downloads.bbc.co.uk/learningenglish/features/6min/151112_6min_english_comedy_download.mp3">Download Mp3</a>
+</div>
