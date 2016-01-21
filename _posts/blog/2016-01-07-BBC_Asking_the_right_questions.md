@@ -8,20 +8,25 @@ description: BBC 6 minutes english, 160107, Asking the right questions
 
 
 
-<div id="heading-6-minute-english" class="widget widget-heading clear-left"  data-widget-index="1"><h3  dir="ltr" >6 Minute English</h3></div>
-		<div id="heading-intermediate-level" class="widget widget-heading"  data-widget-index="2"><h4  dir="ltr" >Intermediate level</h4></div>
+<div id="heading-6-minute-english" class="widget widget-heading clear-left"  data-widget-index="1">
+<h3  dir="ltr" >6 Minute English</h3></div>
+		<div id="heading-intermediate-level" class="widget widget-heading"  data-widget-index="2">
+		<h4  dir="ltr" >Intermediate level</h4></div>
 		<div id="heading-asking-the-right-questions" class="widget widget-heading clear-left"  data-widget-index="3"><h3  dir="ltr" >Asking the right questions</h3></div>
 <div class="widget widget-bbcle-featuresubheader" >
+	
 	<div class="text" style="clear:left">	
 		<div class="details">
 			<h3>
-									<b>Episode 160107</b>
-								 
+
+<b>Episode 160107</b>						 
 					  / 07 Jan 2016					
 			</h3>
 		</div>
 	</div>
-</div><div class="widget widget-image widget-image-single" data-widget-index="5"><div class="image image-single"><span class="img"><img src="http://ichef.bbci.co.uk/bbcle/images/width/live/p0/3c/s6/p03cs6n6.jpg/624" id="1_p03cs6n6" data-type="image" data-pid="p03cs6n6" data-title="" data-description="" width="624" height="351" alt="" class="thumbnail" /></span></div></div>
+</div>
+<div class="widget widget-image widget-image-single" data-widget-index="5">
+<div class="image image-single"><span class="img"><img src="http://ichef.bbci.co.uk/bbcle/images/width/live/p0/3c/s6/p03cs6n6.jpg/624" id="1_p03cs6n6" data-type="image" data-pid="p03cs6n6" data-title="" data-description="" width="624" height="351" alt="" class="thumbnail" /></span></div></div>
 
 <div>
 <audio controls="controls" src="http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3">
