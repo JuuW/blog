@@ -24,6 +24,12 @@ description: BBC 6 minutes english, 160107, Asking the right questions
 </div><div class="widget widget-image widget-image-single" data-widget-index="5"><div class="image image-single"><span class="img"><img src="http://ichef.bbci.co.uk/bbcle/images/width/live/p0/3c/s6/p03cs6n6.jpg/624" id="1_p03cs6n6" data-type="image" data-pid="p03cs6n6" data-title="" data-description="" width="624" height="351" alt="" class="thumbnail" /></span></div></div>
 
 <div>
+
+
+<audio controls="controls" src="http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3">
+您的浏览器不支持 audio 标签,请使用支持HTML5的浏览器。
+</audio>
+
 <a href = "http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3">Download Mp3</a>
 </div>
 
