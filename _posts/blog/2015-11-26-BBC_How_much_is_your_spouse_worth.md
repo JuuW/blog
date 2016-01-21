@@ -25,7 +25,7 @@ description: BBC 6 minutes english, 151126, How much is your spouse worth?
 <br>
 <a href = "http://downloads.bbc.co.uk/learningenglish/features/6min/151119_6min_english_couples_finances_download.mp3">Download Mp3</a>
 
-<a href = "http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151126">Original Page</a>
+ | <a href = "http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151126">Original Page</a>
 
 </div>
 
