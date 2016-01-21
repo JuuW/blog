@@ -30,6 +30,8 @@ description: BBC 6 minutes english, 160107, Asking the right questions
 </audio>
 <br>
 <a href = "http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3">Download Mp3</a>
+
+<a href = "http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160107">Original Page</a>
 </div>
 
 <div class="widget widget-richtext 7"><div class="text" dir="ltr"><p><span>What does it take to be a good interviewer? Neil and Alice discuss TV chat show hosts, Greek philosophers and whether asking dumb questions is a good idea or not &ndash; as well as teaching some related vocabulary.</span></p>
