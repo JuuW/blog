@@ -6,11 +6,18 @@ description: BBC 6 minutes english, 160107, Asking the right questions
 ---
 
 
+<div id="heading-6-minute-english" class="widget widget-heading clear-left"  data-widget-index="1">
+<h3  dir="ltr" >6 Minute English</h3>
+</div>
 
+<div id="heading-intermediate-level" class="widget widget-heading"  data-widget-index="2">
+<h4  dir="ltr" >Intermediate level</h4>
+</div>
 
-<div id="heading-6-minute-english" class="widget widget-heading clear-left"  data-widget-index="1"><h3  dir="ltr" >6 Minute English</h3></div>
-		<div id="heading-intermediate-level" class="widget widget-heading"  data-widget-index="2"><h4  dir="ltr" >Intermediate level</h4></div>
-		<div id="heading-asking-the-right-questions" class="widget widget-heading clear-left"  data-widget-index="3"><h3  dir="ltr" >Asking the right questions</h3></div>
+<div id="heading-asking-the-right-questions" class="widget widget-heading clear-left"  data-widget-index="3">
+<h3  dir="ltr" >Asking the right questions</h3>
+</div>
+
 <div class="widget widget-bbcle-featuresubheader" >
 	<div class="text" style="clear:left">	
 		<div class="details">
@@ -29,7 +36,7 @@ description: BBC 6 minutes english, 160107, Asking the right questions
 <audio controls="controls" src="http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3">
 您的浏览器不支持 audio 标签,请使用支持HTML5的浏览器。
 </audio>
-
+<br>
 <a href = "http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3">Download Mp3</a>
 </div>
 
